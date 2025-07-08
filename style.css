@@ -1,0 +1,28 @@
+body {
+	background-color:#1B1B1B;
+}
+h1 {
+	color:#D7D7D7;
+	text-align:center;
+}
+h2 {
+	text-align:center;
+	color:#D7D7D7;
+}
+table {
+	border-collapse:collapse
+	border:1px solid #D7D7D7 ;
+	color:#D7D7D7;
+}
+th, td{
+	border:1px solid #D7D7D7;
+}
+p, ol {
+	color:#D7D7D7;
+}
+a {
+	color:#E3A9BE;
+}
+
+
+
